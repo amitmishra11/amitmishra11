@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Amit Mishra<br><br>A passionate developer and machine learning enthusiast from India<br><br>🌱 I’m currently learning React and Node<br><br>💬 Ask me about Javascript<br><br>📫 How to reach me amitmishraaa11@gmail.com
+Hi 👋, I'm Amit Mishra<br><br>A passionate developer and machine learning enthusiast from India<br><br>🌱 I’m currently learning Node.js<br><br>💬 Ask me about Javascript<br><br>📫 How to reach me amitmishraaa11@gmail.com
 
 
 ## 🌐 Socials:
