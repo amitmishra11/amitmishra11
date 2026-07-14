@@ -9,7 +9,7 @@
 - 🛠️ Working on **FleetLens** — a unified runtime observability platform for JVM/Kafka microservice fleets (schema drift detection, trace replay, lag correlation, config auditing)
 - 🌱 Exploring distributed systems, event-driven architecture, and AI/LLM tooling
 - 🏆 Competitive programmer — Global Rank 3 (Codigo'24), Rank 132 (Google Farewell Round B '23), AIR 583 in JEE Main 2021
-- 📫 Reach me at amitmishraaa11@gmail.com
+
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-mishra-030454223/)
