@@ -1,14 +1,39 @@
-# 💫 About Me:
-Hi 👋, I'm Amit Mishra<br><br>A passionate developer and machine learning enthusiast from India<br><br>🌱 I'm currently learning Node.js<br><br>💬 Ask me about Javascript and React<br><br>📫 How to reach me amitmishraaa11@gmail.com
+<h1 align="center">Hi 👋, I'm Amit Mishra</h1>
+<h3 align="center">Software Engineer @ Cisco Systems · IIT (BHU) Electrical Engineering '25</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+ReactJS;Building+distributed%2C+event-driven+systems+at+scale;Open+source+contributor;Competitive+programmer" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-mishra-030454223/)
+- 🔭 Building a scalable workflow execution & observability platform at **Cisco Systems** (Java, Spring Boot, Kafka, ReactJS)
+- 🛠️ Working on **FleetLens** — a unified runtime observability platform for JVM/Kafka microservice fleets (schema drift detection, trace replay, lag correlation, config auditing)
+- 🌱 Exploring distributed systems, event-driven architecture, and AI/LLM tooling
+- 🏆 Competitive programmer — Global Rank 3 (Codigo'24), Rank 132 (Google Farewell Round B '23), AIR 583 in JEE Main 2021
+- 📫 Reach me at amitmishraaa11@gmail.com
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-mishra-030454223/)
 
-# 📊 GitHub Stats:
+## 💻 Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Backend & Data**
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+**Infra & Tools**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🌱 Open Source Contributions
+- 🦀 **[rust-lang/hashbrown](https://github.com/rust-lang/hashbrown)** — diagnosed and fixed an integer overflow in the internal `ProbeSeq::move_next` probing routine, replacing pointer/stride arithmetic with wrapping operations to prevent UB panics on large tables in debug builds *(merged)*
+- ⚙️ **[go-task/task](https://github.com/go-task/task)** — root-caused and fixed a concurrency bug where `for:`/`matrix:` loops using `ref:` rows returned incorrect values under parallel execution via `deps`; credited in the project's official release notes *(merged)*
+- ☁️ Additional merged bug-fix PRs in **[rclone/rclone](https://github.com/rclone/rclone)**, **[secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox)**, and **[nextcloud/server](https://github.com/nextcloud/server)**
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=amitmishra11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=amitmishra11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitmishra11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
